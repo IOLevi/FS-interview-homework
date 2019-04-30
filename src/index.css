@@ -53,6 +53,10 @@ body {
 
 }
 
+.selected {
+  border: 1px solid red;
+
+}
 .cell:focus {
   outline: none;
 }
