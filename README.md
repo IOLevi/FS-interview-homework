@@ -1,3 +1,19 @@
+## FS-Interview-Homework
+
+### About
+
+Take-home coding screen for a software engineer role. Task was to code a modified chess game within a 3-hour time limit, using any language (command-line suggested). I implemented the solution in React/JS, using the Create React App bootstrapping tool. Special rules are as follows:
+- White moves first
+- The board consists of pawns only
+- The victory condition is if a pawn reaches the first row of the opposing side
+- If a pawn capture move is possible, it MUST execute the capture move
+- The team that captures gets another move
+
+### Author
+Evan Sznol
+
+---------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
